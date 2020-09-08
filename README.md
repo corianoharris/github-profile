@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm the one screaming at the top of my lungs for someone to pass me the ⚽, hanging out with my imginary kids (my comic strips characters), attempting to show a 🌊 who's the boss, and eating way too many 🍟s.   
+I'm the one screaming at the top of my lungs for someone to pass me the ⚽, hanging out with Tagabouts (my comic strips characters), attempting to show a 🌊 who's the boss, and eating way too many 🍟s.   
 
 I'm passionate about helping humans and animals with research, colors, design, and code. 
  

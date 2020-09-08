@@ -21,8 +21,6 @@ I'm passionate about helping humans and animals with research, colors, design, a
 
 ## Github who?
 
-![Github Fork] (
-
 [![GitHub followers](https://img.shields.io/github/followers/xanderyzwich?color=brightgreen&logo=github&logoColor=brightgreen&style=&style=flat)](http://github.com/corianoharris)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=corianoharris&show_icons=true&theme=dark)

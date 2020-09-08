@@ -1,16 +1,25 @@
-### Hi there 👋
+# Who am I?
 
-<!--
-**corianoharris/corianoharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the one screaming at the top of my lungs for someone to pass me the soccer ball, hanging out with my imginary kids (my comic strips characters), attempting to show a wave who's the boss, and gettign destroyed in a slime fight at St.Jude.  
 
-Here are some ideas to get you started:
+I'm passionate about helping humans and animals with research, colors, design, and code. 
+ 
+## How can he help?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![UX Research](https://img.shields.io/badge/ux-research-green&style=flat)
+![UI Design](https://img.shields.io/badge/ui-design-yellowstyle=flat)
+![Node.js](https://img.shields.io/badge/node.js-yellowstyle=flat)
+![React.js](https://img.shields.io/badge/framework-react.js-orange&style=flat)  
+![Ember.js](https://img.shields.io/badge/framework-ember.js-orange&style=flatstyle=flat)
+![MongoDB](https://img.shields.io/badge/backend-mongoDB-lightgrey&style=flat)
+![PostgreSQL](https://img.shields.io/badge/backend-postgreSQL-lightgrey&style=flat)  
+
+## Where am I? 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PRO-brightgreen.svg?logo=linkedin&logoColor=brightgreen&style=flat)](https://www.linkedin.com/in/corianoharris/)
+
+## Github who?
+
+[![GitHub followers](https://img.shields.io/github/followers/xanderyzwich?color=brightgreen&logo=github&logoColor=brightgreen&style=&style=flat)](http://github.com/corianoharris)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=corianoharris&show_icons=true&theme=dark)

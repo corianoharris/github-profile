@@ -16,9 +16,12 @@ I'm passionate about helping humans and animals with research, colors, design, a
 
 ## Where am I? 
 
+[![Code-Connector Slack](https://img.shields.io/badge/social-code-connector-blue&style=social)] (https://codeconnector.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PRO-brightgreen.svg?logo=linkedin&logoColor=brightgreen&style=flat)](https://www.linkedin.com/in/corianoharris/)
 
 ## Github who?
+
+![Github Fork] (
 
 [![GitHub followers](https://img.shields.io/github/followers/xanderyzwich?color=brightgreen&logo=github&logoColor=brightgreen&style=&style=flat)](http://github.com/corianoharris)
 

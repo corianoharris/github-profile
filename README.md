@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm the one screaming at the top of my lungs for someone to pass me the soccer ball, hanging out with my imginary kids (my comic strips characters), attempting to show a wave who's the boss, and getting destroyed in a slime fight at St.Jude.  
+I'm the one screaming at the top of my lungs for someone to pass me the ⚽, hanging out with my imginary kids (my comic strips characters), attempting to show a 🌊 who's the boss, and getting destroyed in a slime fight at St.Jude.  
 
 I'm passionate about helping humans and animals with research, colors, design, and code. 
  

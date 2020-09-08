@@ -8,7 +8,7 @@ I'm passionate about helping humans and animals with research, colors, design, a
 
 ![UX Research](https://img.shields.io/badge/ux-research-green&style=flat)
 ![UI Design](https://img.shields.io/badge/ui-design-yellow&style=flat)
-![Node.js](https://img.shields.io/badge/node.js-yellow&style=flat)
+![Node.js](https://img.shields.io/badge/framework-node.js-yellow&style=flat)
 ![React.js](https://img.shields.io/badge/framework-react.js-orange&style=flat)  
 ![Ember.js](https://img.shields.io/badge/framework-ember.js-orange&style=flatstyle=flat)
 ![MongoDB](https://img.shields.io/badge/backend-mongoDB-lightgrey&style=flat)

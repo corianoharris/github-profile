@@ -4,7 +4,7 @@ I'm the one screaming at the top of my lungs for someone to pass me the soccer b
 
 I'm passionate about helping humans and animals with research, colors, design, and code. 
  
-## How can he help?
+## What's in the his toolbox?
 
 ![UX Research](https://img.shields.io/badge/ux-research-green&style=flat)
 ![UI Design](https://img.shields.io/badge/ui-design-yellow&style=flat)
@@ -16,7 +16,7 @@ I'm passionate about helping humans and animals with research, colors, design, a
 
 ## Where am I? 
 
-[![Code-Connector Slack](https://img.shields.io/badge/social-code-connector-blue&style=social)] (https://codeconnector.io/)
+[![Code-Connector Slack](https://img.shields.io/badge/social-code--connector-blue&style=social)] (https://codeconnector.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PRO-brightgreen.svg?logo=linkedin&logoColor=brightgreen&style=flat)](https://www.linkedin.com/in/corianoharris/)
 
 ## Github who?

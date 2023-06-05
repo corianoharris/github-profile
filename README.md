@@ -8,11 +8,13 @@ I'm the enthusiastic individual who can often be heard shouting at the top of my
 
 ![UX Research](https://img.shields.io/badge/ux-research-green&style=flat)
 ![UI Design](https://img.shields.io/badge/ui-design-yellow&style=flat)
+![TypeScript](https://img.shields.io/badge/javaScript-typeScript-lightgrey&style=flat)
 ![Node.js](https://img.shields.io/badge/framework-node.js-yellow&style=flat)
 ![React.js](https://img.shields.io/badge/framework-react.js-orange&style=flat)  
-![Ember.js](https://img.shields.io/badge/framework-ember.js-orange&style=flatstyle=flat)
-![MongoDB](https://img.shields.io/badge/backend-mongoDB-lightgrey&style=flat)
-![PostgreSQL](https://img.shields.io/badge/backend-postgreSQL-lightgrey&style=flat)  
+![Next.js](https://img.shields.io/badge/framework-next.js-blue&style=flat)
+![Jest](https://img.shields.io/badge/testing-jest-green&style=flat)
+![Cypress](https://img.shields.io/badge/testing-cypress-blue&style=flat)
+  
 
 ## Where am I? 
 

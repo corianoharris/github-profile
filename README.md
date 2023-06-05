@@ -1,8 +1,8 @@
-# Who am I?
+# Who am I?   
 
-I'm the one screaming at the top of my lungs for someone to pass me the ⚽, hanging out with Tagabouts (my comic strips characters), attempting to show a 🌊 who's the boss, and eating way too many 🍟s.   
+I have a strong passion for using research, colors, design, and code to make a positive impact on both humans and animals. 
 
-I'm passionate about helping humans and animals with research, colors, design, and code. 
+I'm the enthusiastic individual who can often be heard shouting at the top of my lungs, eagerly requesting someone to pass me the ⚽. Additionally, I enjoy spending time with my beloved Tagabouts characters from my comic strips. Also challenging the waves of the ocean to assert my dominance and, admittedly, indulging in a plethora of 🍟s more often than I should.
  
 ## What's in the his toolbox?
 

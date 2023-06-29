@@ -1,8 +1,14 @@
 # Who am I?   
 
-I have a strong passion for using research, colors, design, and code to make a positive impact on both humans and animals. 
+Well, hello Githubers! I've had some wicked awesome experiences working with incredible organizations and communities, making a real impact along the way.
 
-I'm the enthusiastic individual who can often be heard shouting at the top of my lungs, eagerly requesting someone to pass me the ⚽. Additionally, I enjoy spending time with my beloved Tagabouts characters from my comic strips. Also challenging the waves of the ocean to assert my dominance and, admittedly, indulging in a plethora of 🍟s more often than I should.
+Settle in with a bowl of popcorn because I have an exciting tech story to share from my time at Ally Financial. Imagine a scene where users were anxiously fidgeting in their seats, struggling to keep up with their troublesome product payments. It resembled a group of kittens trying to juggle balls of yarn!
+
+But fear not, for I emerged as their tech superhero! With user observations and a team of UI researchers (minus the Sherlock Holmes pipe), we dove deep into the abyss of this problem. With tears of empathy (okay, maybe I'm being a tad dramatic), I created a magical alert component. It swooped in like a superhero sidekick, reminding users of their current, upcoming, or past-due payments. It was like having a personal finance assistant, without the boring suits and stern looks! Who wouldn't be thrilled to have their financial life under control? It was a win-win situation, and I felt like the coolest tech hero in town.
+
+So, there you have it. With a dash of empathy, a sprinkle of code, a love for users, and a pinch of humor, I helped these folks conquer their payment woes and set them on the path to ultimate success. Cheers to making the tech world a better place, one payment alert at a time!
+
+Checkout some of my fun and hair pulling projects! 
  
 ## What's in the his toolbox?
 

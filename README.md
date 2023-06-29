@@ -2,7 +2,7 @@
 
 Well, hello Githubers! I've had some wicked awesome experiences working with incredible organizations and communities, making a real impact along the way.
 
-Settle in with a bowl of popcorn because I have an exciting tech story to share from my time at Ally Financial. Imagine a scene where users were anxiously fidgeting in their seats, struggling to keep up with their troublesome product payments. It resembled a group of kittens trying to juggle balls of yarn!
+Settle in with a bowl of popcorn because I have an exciting tech story to share from my time one of my employers. Imagine a scene where users were anxiously fidgeting in their seats, struggling to keep up with their troublesome product payments. It resembled a group of kittens trying to juggle balls of yarn!
 
 But fear not, for I emerged as their tech superhero! With user observations and a team of UI researchers (minus the Sherlock Holmes pipe), we dove deep into the abyss of this problem. With tears of empathy (okay, maybe I'm being a tad dramatic), I created a magical alert component. It swooped in like a superhero sidekick, reminding users of their current, upcoming, or past-due payments. It was like having a personal finance assistant, without the boring suits and stern looks! Who wouldn't be thrilled to have their financial life under control? It was a win-win situation, and I felt like the coolest tech hero in town.
 

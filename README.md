@@ -28,7 +28,7 @@ To checkout some of my fun and hair pulling projects, head over to [my website](
 <br>
 <p align="center">
   <a href="https://codeconnector.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label= > &message=CODE CONNECTOR&color=6495ED&style=plastic&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=CODE CONNECTOR&color=6610f2&style=plastic&logo-color=white"/>
   </a>
 </p>
 <br>

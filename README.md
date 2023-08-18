@@ -44,7 +44,7 @@ To checkout some of my fun and hair pulling projects, head over to [my website](
         </a>
         <br />
         <p align="center">
-          
+      <br />
   <a href="https://github.com/corianoharris/react-full-stack-notes-collector" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=purple&style=plastic&logo=github&logo-color=white"/>
   </a>  
@@ -62,7 +62,7 @@ To checkout some of my fun and hair pulling projects, head over to [my website](
         </a>
         <br />
         <p align="center">
-          
+            <br /> 
   <a href="https://github.com/corianoharris/nextjs-typescript-prediabetes-risk-test" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=2040F4&style=plastic&logo=github&logo-color=white"/>
   </a>

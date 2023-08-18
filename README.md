@@ -12,6 +12,7 @@ So, there you have it. With a dash of empathy, a sprinkle of code, a love for us
 
 To checkout some of my fun and hair pulling projects, head over to [my website](https://www.corianoharris.com)  
 
+<br />
 <p align="center">
   <a href="https://www.corianoharris.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=0000FF&style=plastic&logo-color=white"/>
@@ -100,7 +101,7 @@ To checkout some of my fun and hair pulling projects, head over to [my website](
 </p>
 <br>
 <h1 align="center">Github Stats</h1>
-
+<br>
 <p align="center">
     <img src="https://img.shields.io/github/followers/xanderyzwich?color=brightgreen&logo=github&logoColor=brightgreen&style=&style=flat"/>
 </p>

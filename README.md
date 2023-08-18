@@ -14,13 +14,13 @@ To checkout some of my fun and hair pulling projects, head over to [my website](
 
 <p align="center">
   <a href="https://www.corianoharris.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label= > &message=WEBSITE&color=6495ED&style=plastic&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=0000FF&style=plastic&logo-color=white"/>
   </a>
   <a href="https://www.corianoharris.com/public/documents/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?label= > &message=RESUME&color=6495ED&style=plastic&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=0000FF&style=plastic&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/corianoharris/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label= > &message=LINKEDIN&color=6495ED&style=plastic&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0000FF&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
 </p>
 <br>

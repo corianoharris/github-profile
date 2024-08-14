@@ -1,14 +1,57 @@
 
-# Who am I? 
+# Welcome to My GitHub Profile!
 
+👋 Hi there! I'm Coriano Harris, a passionate reseracher, designer, and developer with a love for **research**, **design**, and **programming**. My journey in tech is driven by a deep curiosity for how things work, an eye for design aesthetics, and a dedication to solving problems through code. Here, you'll find a showcase of my projects, each representing a piece of my journey in technology.
 
-Well, hello Githubers! I've had some wicked awesome experiences working with incredible organizations and communities, making a real impact along the way.
+## 🛠️ **Featured Projects**
 
-Settle in with a bowl of popcorn because I have an exciting tech story to share from my time one of my employers. Imagine a scene where users were anxiously fidgeting in their seats, struggling to keep up with their troublesome product payments. It resembled a group of kittens trying to juggle balls of yarn!
+### **1. [Notezy](https://github.com/corianoharris/Notezy)**
+- **Description:** A minimalist note-taking application designed for simplicity and ease of use. With a clean and intuitive interface, Notezy allows users to quickly create, organize, and manage their notes. 
+- **Key Features:**
+  - Integrated Auth0 for User Authentication
+  - Secure private routes to protect user accounts 
+  - Create notes with a single click
 
-But fear not, for I emerged as their tech superhero! With user observations and a team of UI researchers (minus the Sherlock Holmes pipe), we dove deep into the abyss of this problem. With tears of empathy (okay, maybe I'm being a tad dramatic), I created a magical alert component. It swooped in like a superhero sidekick, reminding users of their current, upcoming, or past-due payments. It was like having a personal finance assistant, without the boring suits and stern looks! Who wouldn't be thrilled to have their financial life under control? It was a win-win situation, and I felt like the coolest tech hero in town.
+### **2. [UI Libraray](https://github.com/corianoharris/angular-ui-components )**
+- **Description:** An Angular UI Components Library.
+- **Key Features:**
+  - A versatile button that includes various states (e.g., loading) and supports adding icons before and after the text.
+  - A flexible icon that embeds font awesome icons or custom svg files
+  - A customizable tooltip that allows users to select pointer positions, control visibility, and adjust box shadows.
 
-So, there you have it. With a dash of empathy, a sprinkle of code, a love for users, and a pinch of humor, I helped these folks conquer their payment woes and set them on the path to ultimate success. Cheers to making the tech world a better place, one payment alert at a time!
+### **3. [Cancer Donation MLP](https://github.com/corianoharris/cancer-donation-app)**
+- **Description:** A MVP of a cancer donation experience that allows users to donate to various cancer organizations and review their donation history.
+- **Key Features:**
+  - Select from a range of cancer types.
+  - Choose from multiple cancer centers
+  - Prevent users from donating more than the amount available in their account
+
+### **4. [Prediabetes Risk Test](https://github.com/corianoharris/prediabetes-risk-test-app)**
+- **Description:** The Prediabetes Risk Test is a web application designed to help users assess their risk of prediabetes. By answering a series of questions, users receive an estimate of their risk level, along with guidance on next steps to take for their health.
+- **Key Features:**
+  - Client-side and Server-side rendering for fast page loads
+  - Form Steppers that provides a streamlined multi-step form experience
+  - Displays toaster notifications of status updates and alerts to users
+
+## 🧠 **Research & Design**
+
+I'm deeply interested in the intersection of **research** and **design**. My work often involves:
+- Exploring **design systems** to improve user experience and consistency.
+- Investigating new technologies and methodologies to stay at the forefront of the field.
+- Applying **user-centered design** principles to ensure intuitive and accessible interfaces.
+
+## 💻 **Programming & Technologies**
+
+I have experience with a variety of programming languages and technologies, including:
+- **Frontend:** HTML, CSS, JavaScript, React, Angular
+- **Backend:** Node.js, Express, MongoDB, SQL ( Postgres )
+- **Tools & Libraries:** Font Awesome, Bootstrap, Mirage.js, Faker.js, Tailwind
+
+## 📫 **Get in Touch**
+
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/corianoharris/). I'm always open to discussing new projects, ideas, and collaborations!
+
+---
 
 To checkout some of my fun and hair pulling projects, head over to [my website](https://www.corianoharris.com)  
 
@@ -16,12 +59,6 @@ To checkout some of my fun and hair pulling projects, head over to [my website](
 <p align="center">
   <a href="https://www.corianoharris.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=0000FF&style=plastic&logo-color=white"/>
-  </a>
-  <a href="https://www.corianoharris.com/public/documents/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=0000FF&style=plastic&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/corianoharris/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0000FF&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
 </p>
 <br>
@@ -32,49 +69,6 @@ To checkout some of my fun and hair pulling projects, head over to [my website](
     <img src="https://img.shields.io/static/v1?label=&message=CODE CONNECTOR&color=6610f2&style=plastic&logo-color=white"/>
   </a>
 </p>
-<br>
-<h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Notezy</h3>
-        <br />
-        <a target="_blank" href="https://notezyapp.netlify.app/">
-            <img src="images/notezy.png" width="100%" alt="Notezy App"/>
-        </a>
-        <br />
-        <p align="center">
-      <br />
-  <a href="https://github.com/corianoharris/react-full-stack-notes-collector" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=purple&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="/videos/notezy.gif" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=VIDEO&color=BF40BF&style=plastic&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Airtable, Bootstrap, Auth0, JavaScript </strong> - Platform for users to write and archive their notes.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Prediabetes Risk Test</h3>
-        <br />
-      <a target="_blank" href="https://prediabetes-risk-test.netlify.app/">
-            <img src="images/prediabetes.png" width="100%"  alt="Prediabetes Risk Test"/>
-        </a>
-        <br />
-        <p align="center">
-            <br /> 
-  <a href="https://github.com/corianoharris/nextjs-typescript-prediabetes-risk-test" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=2040F4&style=plastic&logo=github&logo-color=white"/>
-  </a>
-   <a href="/videos/prediabetes.gif" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=VIDEO&color=2040F4&style=plastic&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Next.js, TypeScript, Tailwind </strong> - Platform for users to check their prediabetes risk.</p>
-    </td>
-  </tr>
-</table>
 <br>
 <h1 align="center">Technologies</h1>
 
